@@ -44,4 +44,4 @@ chmod +x script.sh
 ---
 
 ## 👯‍♂️ Contact Me  
-📧 **Email:** [your.email@example.com](mailto:mbais-ahmadzai@outlook.com)  
+📧 **Email:** [mbais-ahmadzai@outlook.com](mailto:mbais-ahmadzai@outlook.com)  
