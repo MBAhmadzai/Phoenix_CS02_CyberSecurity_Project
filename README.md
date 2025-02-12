@@ -1,4 +1,4 @@
-Phoenix-CS02-CyberSecurity_Project# 🔥 Phoenix-CS02 Cybersecurity Project  
+# 🔥 Phoenix-CS02 Cybersecurity Project  
 A hands-on cybersecurity project focusing on offensive and defensive security techniques. This project explores **network security, penetration testing, and vulnerability assessment** through practical implementation and research.  
 
 ## 🚀 Features  
